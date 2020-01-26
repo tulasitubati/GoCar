@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GoCar</string>
+    <string name="companyname">Company Name</string>
+    <string name="about_me">About me</string>
+    <string name="location">Location</string>
+    <string name="email">johndoe@demo.com</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="timings">Timings</string>
+    <string name="skills">Skills</string>
+    <string name="add_skills">Add Skills</string>
+    <string name="password">Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="save_btn">Save Button</string>
+    <string name="upload">Upload Photo</string>
+
+    <string name="txt_your_skills">Your Skills</string>
+    <string name="txt_set_price">Set Price</string>
+    <string name="txt_add">Add</string>
+    <string name="txt_save_amp_back"><![CDATA[Save & Back]]></string>
+    <string name="txt_weekly_detail">Weekly Detail</string>
+    <string name="txt_sunday">Sunday</string>
+    <string name="txt_closed">Closed</string>
+    <string name="txt_image_delete">delete</string>
+    <string name="txt_start_time">Start Time</string>
+    <string name="txt_hr">Hr</string>
+    <string name="txt_min">Min</string>
+</resources>
